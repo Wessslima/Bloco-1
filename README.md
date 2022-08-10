@@ -1,2 +1,2 @@
 # Bloco-1
-Projetos
+Projetos utilizando Portugol e Java
