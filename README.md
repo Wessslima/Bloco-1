@@ -1,2 +1,2 @@
 # Bloco-1
-Projetos criados no Portugol
+Projetos utilizando Portugol e Java
